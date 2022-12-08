@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./startvpn.conf.sh
+source ./openvpn3-install/startvpn.conf.sh
 
 echo 
 echo "===== Lancement connexion vpn Vattenfall (openvpn3) ====="
