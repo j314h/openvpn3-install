@@ -34,10 +34,10 @@ $ nmcli connection show
 - la partie configuration doit etre terminé
 - dans un terminal à la racine (~/) executer `./openvpn3-install/startvpn.sh`
 - le navigateur s'ouvre => identifier vous
-- retourner dans le terminal et répondre à question (y ou N)
+- retourner dans le terminal et répondre à la question (y ou N)
 - VOUS ETES CONNECTE
 
 ## Stop VPN avec reset DNS 
 
-- dans un terminal à la racine (~/) executer `./closevpn.sh`
+- dans un terminal à la racine (~/) executer `./openvpn3-install/closevpn.sh`
 - VOUS ETES DECONNECTE
